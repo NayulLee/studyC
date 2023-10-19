@@ -1,3 +1,5 @@
+// char형 배열의 선언과 초기화
+// NULL문자 (\0)의 기능
 #include <stdio.h>
 
 int main() {
