@@ -6,12 +6,11 @@ int main() {
 
 	char ch;
 	int i;
-
-	for (i = 0; i < 3; i++) {
-
+	
+	while (1) {
 		scanf("%c", &ch);
+		if (ch == '\n') break;
 		printf("%c", ch);
-
 	}
 
 	return 0;
