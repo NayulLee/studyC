@@ -14,7 +14,7 @@ int main() {
 
 int* sum(int a, int b) {
 
-	 int res;
+	static int res;
 
 	res = a + b;
 
