@@ -1,3 +1,4 @@
+// 주소로 쓰이는 배열명과 배열의 주소 비교
 #include <stdio.h>
 
 int main() {
