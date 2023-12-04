@@ -11,7 +11,7 @@
 
 int main() {
 
-	char str1[80] = "cat";
+	char str1[80] = "strawberry";
 	char str2[80];
 
 	strcpy(str1, "tigar");
